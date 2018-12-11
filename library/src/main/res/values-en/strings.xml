@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="UMBreak_Network">Error Network</string>
+    <string name="UMUpdateTitle">New Version</string>
+    <string name="UMNewVersion">Latest version: </string>
+    <string name="UMUpdateContent">Update Content</string>
+    <string name="UMUpdateSize">Only download:</string>
+    <string name="UMTargetSize">New version size:</string>
+    <string name="UMGprsCondition">（Tip：No wifi）</string>
+    <string name="UMUpdateNow">Update now</string>
+    <string name="UMAppUpdate">App Update</string>
+    <string name="UMNotNow">Update later</string>
+    <string name="UMIgnore">Ignore update</string>
+    <string name="UMToast_IsUpdating">Updating....</string>
+    <string name="UMDialog_InstallAPK">Latest version downloaded，installed or not？</string>
+    <string name="current_is_last_version">The Current version is latest</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="version_error">Version error,download again?</string>
+    <string name="download_failed">Download failed,try again?</string>
+</resources>
